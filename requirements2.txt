@@ -1,5 +1,5 @@
 streamlit
+matplotlib==3.5.2
 scikit-image
 numpy
-conda install matplotlib
 pillow
